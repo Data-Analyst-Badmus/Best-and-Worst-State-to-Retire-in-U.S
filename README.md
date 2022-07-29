@@ -1,11 +1,11 @@
 # PROJECT NAME
 Best and Worst States to Retire in the U.S
 # DATA SOURCE
-Data sets was Scraped from the Web https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/ 
+Data sets was Scraped from the Web https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/ and Loaded into Power BI Query
 # PROBLEM STATEMENT
 To Analyze the Best and Worst States to Retire in the U.S by Using this Five Categories; Affordability, Wellness, Culture, Weather, and Crime.
 # Data Check
-I make sure that I go through the Data very Well And Cleaned it by removing duplicate in the Data
+I make sure that I go through the Data very Well And Cleaned it by removing duplicate in the Data by using Power Query Editor
 # ANALYSIS & VISUALIZATION
 ## The Data Sets
 ![Screenshot (77)](https://user-images.githubusercontent.com/110194429/181742280-b06286e2-dca0-45bc-b3ac-493344e77f4a.png)
