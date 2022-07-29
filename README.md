@@ -25,7 +25,7 @@ I make sure that I go through the Data very Well And Cleaned it by removing dupl
 ![Screenshot (72)](https://user-images.githubusercontent.com/110194429/181746477-1583a1b4-7894-4712-b112-6959973d806b.png)
 # FINDINGS
 ### It shows that; Georgia, Florida, and Tennessee is the Best to Retire in U.S
-### While Maryland, Minnesota, and Kansas is the Worst states to retire in U.S
+### While Maryland, Minnesota, and Kansas is the Worst states to retire in U.S according to the Five Categories.
 # RECOMMENDATION
-### For people planning to Retire in U.S,they should go for the Five Best States,because of Affordability, Wellness, Culture, Weather, and Crime; Which is more suitable Living there than Other States.
+### +For people planning to Retire in U.S,they should go for the Five Best States,because of Affordability, Wellness, Culture, Weather, and Crime; Which is more suitable Living there than Other States.
 ### Also For the Real Estates they should try and Invest in the Five Best States.
